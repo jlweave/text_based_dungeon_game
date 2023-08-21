@@ -7,7 +7,7 @@
  
 </p>
 
-<h3 align="center">This repo is a text based adventure game.  dajkldaj;df
+<h3 align="center">This repo is a text based adventure game. AHHHHHHHHHHHHH!
 
 ## Table of Contents
 
